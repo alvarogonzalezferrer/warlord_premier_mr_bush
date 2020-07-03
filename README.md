@@ -34,7 +34,7 @@ http://www.mingw.org/
 
 You need Allegro 4 dev package and g++ compiler.
 
-### MS-does
+### MS-DOS / DOSBOX
 
 TODO : not done yet, I guess DJGPP + Allegro 4.2 under DOSBOX host would work.
 
@@ -46,9 +46,11 @@ The game data is compiled with the GRABBER tool that comes with Allegro 4
 
 This game was made in 24 hs to fullfil the SpeedHack 2007 rules, and won most evil game that year.
 
-### RULES
+http://www.speedhack.allegro.cc/
 
-The rules and how I implemented them
+### RULES of the contest
+
+The rules, and how I implemented them
 
 * You must be the evil bad guy, destroying all the good guys. Mercy and compassion have no place in the game.
 
