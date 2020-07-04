@@ -36,6 +36,18 @@ The command line takes some switches.
 - Try -w for windowed mode
 - Try -? for help about other extra options.
 
+## Features
+
+- Linux, Windows, MS-DOS version
+- Open Source, 100% free forever
+- Random procedural terrain
+- Ultra violence
+- Airstrikes
+- Weapons of Mass Destruction
+- Weather
+- Particles effects
+- Super fast on low hardware
+
 ## Screenshoots
 
 ![SpeedHack 2007](/screenshots/speedhack_2007_most_evil.jpg?raw=true "SpeedHack 2007")
