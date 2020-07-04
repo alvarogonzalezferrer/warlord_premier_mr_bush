@@ -36,7 +36,15 @@ You need Allegro 4 dev package and g++ compiler.
 
 ### MS-DOS / DOSBOX
 
-TODO : not done yet, I guess DJGPP + Allegro 4.2 under DOSBOX host would work.
+You need the special source code massaged for MS-DOS.
+Is in the release folder.
+
+The tools you need:
+- DJGPP C++ (gxx) compiler
+- Allegro 4.2 (NOT ALLEGRO 5.X!)
+- DOSBOX or real hardware i.e a 486 DX2
+
+Have retro fun!
 
 ### Game data
 
