@@ -12,7 +12,7 @@ Under the MIT license - 2007-2020
 
 ![SpeedHack 2007](/screenshots/speedhack_2007_most_evil.jpg?raw=true "SpeedHack 2007")
 
-![DOSBOX](/screenshots/1.jpg?raw=true "MS-DOS version)
+![DOSBOX](/screenshots/1.jpg?raw=true "MS-DOS version")
 
 ## Tools and Libraries Used
 
