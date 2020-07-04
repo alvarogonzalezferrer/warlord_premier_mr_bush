@@ -8,6 +8,12 @@ Under the MIT license - 2007-2020
 
 "at a crossroads, I did a deal to make my game the most evil ever"
 
+## Screenshoots
+
+![SpeedHack 2007](/screenshots/speedhack_2007_most_evil.jpg?raw=true "SpeedHack 2007")
+
+![DOSBOX](/screenshots/1.jpg?raw=true "MS-DOS version)
+
 ## Tools and Libraries Used
 
 Tools GNU/GCC and KDE, Kate, bash, GIMP, Audacity
@@ -97,9 +103,9 @@ Well, I reused a Arcade Game Framework that I made back then in 2007, was great 
 
 All the rest was coded on a hurry in about 7 or 8 hs. :P
 
-I'm not really proud of the hacked code, I used all the dirty tricks to code fast, and not elegant, so the code is a mess, there are parts of code that are never used, and others that look more like BASIC code. 
+I'm not really proud of the hacked code, I used all the dirty tricks to code fast, and not elegant, so the code is a mess, there are parts of code that are never used, and others that look more like BASIC code.
 
-I code much better when I'm in a relaxed working environment. 
+I code much better when I'm in a relaxed working environment.
 
 The whole game took like 8 hs in 3 days. Anyways, the job is done, and works(tm).
 
