@@ -36,7 +36,15 @@ You need Allegro 4 dev package and g++ compiler.
 
 ### MS-DOS / DOSBOX
 
-TODO : not done yet, I guess DJGPP + Allegro 4.2 under DOSBOX host would work.
+You need the special source code massaged for MS-DOS.
+Is in the release folder.
+
+The tools you need:
+- DJGPP C++ (gxx) compiler
+- Allegro 4.2 (NOT ALLEGRO 5.X!)
+- DOSBOX or real hardware i.e a 486 DX2
+
+Have retro fun!
 
 ### Game data
 
@@ -85,11 +93,15 @@ I really did not tested the wide screen support for lack of hardware. I hope it 
 
 ## REUSED CODE & STUFF
 
-Well, I reused a Arcade Game Framework that I'm making since like 2 months ago, was great sucess!
+Well, I reused a Arcade Game Framework that I made back then in 2007, was great sucess!
 
 All the rest was coded on a hurry in about 7 or 8 hs. :P
 
-I'm not really proud of the hacked code, I used all the dirty tricks to code fast, and not elegant, so the code is a mess, there are parts of code that are never used, and others that look more like BASIC code. I code much better when I'm in a relaxed working environment. The whole game took like 8 hs in 3 days. Anyways, the job is done, and works(tm).
+I'm not really proud of the hacked code, I used all the dirty tricks to code fast, and not elegant, so the code is a mess, there are parts of code that are never used, and others that look more like BASIC code. 
+
+I code much better when I'm in a relaxed working environment. 
+
+The whole game took like 8 hs in 3 days. Anyways, the job is done, and works(tm).
 
 I used stock photos off the web, and I did some sprites with Gimp too. Sounds are free stock, modified and tuned by me, most grabbed from a CD with sounds of the magazine Computer Music:Samples del milenio vol 12. and from the web.
 
