@@ -46,6 +46,9 @@ You need the special source code massaged for MS-DOS.
 Is in the release folder.
 
 The tools you need:
+
+http://www.delorie.com/djgpp/
+
 - DJGPP C++ (gxx) compiler
 - Allegro 4.2 (NOT ALLEGRO 5.X!)
 - DOSBOX or real hardware i.e a 486 DX2
