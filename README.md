@@ -8,6 +8,34 @@ Under the MIT license - 2007-2020
 
 "at a crossroads, I did a deal to make my game the most evil ever"
 
+## About the Game
+
+You are Mighty Warlord Premier Bush.
+
+Your mission is to drink the blood of every single man, woman and child!
+
+Destroy the world so that for the next thousand years not even a single lizard will survive in the land.
+
+## How to Play
+
+You must kill the childs fast enough to harvest blood to replenish your life after each level and stay alive and kicking.
+
+To do so, use this controls:
+
+- **Aim** with the mouse.
+- **Left** mouse button to **shoot**.
+- **Right** mouse button to drop a **Weapon Of Mass Destruction** (WOMD)
+- **Middle** mouse button or **ENTER** to call in preemptive **airstrike** (Use Y/N to dialog with secretary Yarr!)
+
+- **F10** to quit the game
+- **F11** to change video mode
+- **SPACE** to skip intro screen, etc
+
+The command line takes some switches.
+
+- Try -w for windowed mode
+- Try -? for help about other extra options.
+
 ## Screenshoots
 
 ![SpeedHack 2007](/screenshots/speedhack_2007_most_evil.jpg?raw=true "SpeedHack 2007")
@@ -114,27 +142,4 @@ The whole game took like 8 hs in 3 days. Anyways, the job is done, and works(tm)
 
 I used stock photos off the web, and I did some sprites with Gimp too. Sounds are free stock, modified and tuned by me, most grabbed from a CD with sounds of the magazine Computer Music:Samples del milenio vol 12. and from the web.
 
-## About the Game
-
-You are Mighty Warlord Premier Bush.
-Your mission is to drink the blood of every single man, woman and child!
-Destroy the world so that for the next thousand years not even a single lizard will survive in the land.
-
-## How to Play
-
-You must kill the childs fast enough to harvest blood to replenish your life after each level and stay alive and kicking.
-
-To do so, use this controls:
-
-Aim with the mouse.
-Left mouse button to shoot.
-Right mouse button to drop a WOMD
-Middle mouse button or ENTER to call in preemptive airstrike (Use Y/N to dialog with secretary Yarr!)
-
-F10 to quit the game
-F11 to change video mode
-SPACE to skip intro screen, etc
-
-The command line takes some switches.
-Try -w for windowed mode
-Try -? for other commands.
+# THANKS!
